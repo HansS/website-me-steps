@@ -1,0 +1,31 @@
+a {
+	text-decoration: none;
+}
+
+ul,ol {
+	list-style: none;
+}
+
+body {
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%;
+	background-color: lightblue;
+}
+
+#logo {
+	text-align:center;
+	margin: 0;
+}
+
+nav {
+	text-align: center;
+}
+
+
+
+
