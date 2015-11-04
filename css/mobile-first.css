@@ -1,5 +1,6 @@
 a {
 	text-decoration: none;
+	color:#6ab47b;
 }
 
 ul,ol {
@@ -8,6 +9,8 @@ ul,ol {
 
 body {
 	font-family: 'Trebuchet MS', sans-serif;
+	background-color: #fff;
+	color: #999;
 }
 
 #wrapper {
@@ -24,8 +27,27 @@ body {
 
 nav {
 	text-align: center;
+	background: #599a68;
 }
 
+nav a, nav a:visited {
+	color:#fff;
+}
+
+nav a.selected, nav a:hover {
+	color: #32673f;
+}
+
+header {
+	background: #6ab47b;
+	border-color: #599a68;
+	border-width: 5px;
+	border-radius: 15px;
+}
+
+h1,h2 {
+	color: #fff;
+}
 
 
 
